@@ -11,4 +11,3 @@
 * [Arrays Filter](https://github.com/r-santtos/Reviewing-JavaScript/blob/master/javascript/ArraysFilter.js)
 * [Arrays Map](https://github.com/r-santtos/Reviewing-JavaScript/blob/master/javascript/ArraysMap.js)
 * [Arrays Reduce](https://github.com/r-santtos/Reviewing-JavaScript/blob/master/javascript/ArraysReduce.js)
-* [Class](https://github.com/r-santtos/Reviewing-JavaScript/blob/master/javascript/Class.js)
