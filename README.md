@@ -12,4 +12,3 @@
 * [Arrays Map](https://github.com/r-santtos/Reviewing-JavaScript/blob/master/javascript/ArraysMap.js)
 * [Arrays Reduce](https://github.com/r-santtos/Reviewing-JavaScript/blob/master/javascript/ArraysReduce.js)
 * [Class](https://github.com/r-santtos/Reviewing-JavaScript/blob/master/javascript/Class.js)
-* [Expressions](https://github.com/r-santtos/Reviewing-JavaScript/blob/master/javascript/Expressions.js)
