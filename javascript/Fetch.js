@@ -1,6 +1,6 @@
 // Fetch
 
-// Solicitação da API a funão Fetch retorna uma promise
+// Solicitação da API a função Fetch retorna uma promise
 fetch('https://api.github.com/users/r-santtos')
 .then((response) => {
   return response.json();
